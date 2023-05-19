@@ -1,0 +1,30 @@
+#
+# Europa Universalis. French AI
+#
+ 
+ 
+		# preferred areas for expansion
+
+		region = { "North America" Carribean "West Africa" India }
+		area = { Quebec Acadie Antilles Haiti "Grand Lacs" Carnatic "The Mascarenes" Senegal }
+
+		# The amount of provinces we try to colonize at the same time
+		expansion = 40
+
+		# % of the time we prefer to establish a tradingpost if both are good.
+		tradingpost = 10
+
+		# Bonus for areas to establish colonies adjacent to previous ones.
+		neighbour = 40
+
+		# Bonus/Penalty for establish colonies adjacent to other countries.
+		enemies = 20
+
+		# 100 = max trader rate, lesser means slower focus on sending a trader.
+		traders = 30
+
+		# 100 = Total monopolist, will refuse trade as much as possible.
+		monopoly = 20
+
+		# 100 = Total warmonger, 0 = absolute pacifist
+		war = 50

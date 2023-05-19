@@ -1,0 +1,29 @@
+#
+# Europa Universalis, Dutch AI.
+#
+#
+		# preferred areas for expansion
+
+		region = { "South America" Carribean India Indonesia }
+		area = { America Antilles Recife "The Cape" Malabar Bengal Carnatic Java Canton Formosa Nippon Amboina Ternate Celebes }
+
+		# The amount of provinces we try to colonize at the same time
+		expansion = 30
+
+		# % of the time we prefer to establish a tradingpost if both are good.
+		tradingpost = 30
+
+		# Bonus for areas to establish colonies adjacent to previous ones.
+		neighbour = 50
+
+		# Bonus/Penalty for establish colonies adjacent to other countries.
+		enemies = 10
+
+		# 100 = max trader rate, lesser means slower focus on sending a trader.
+		traders = 50
+
+		# 100 = Total monopolist, will refuse trade as much as possible.
+		monopoly = 20
+
+		# 100 = Total warmonger, 0 = absolute pacifist
+		war = 10

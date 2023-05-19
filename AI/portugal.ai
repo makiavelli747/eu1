@@ -1,0 +1,32 @@
+#
+# Europa Universalis. Portugese AI
+#
+ 
+		# preferred areas for expansion
+
+		region = { india indonesia }
+		area = { Tanganyika Sofala Aden Oman Persia Malabar Ceylon Malaya Amboina Celebes Ternate Amazonia Bahia Belem Recife Rio }
+
+		# The amount of provinces we try to colonize at the same time
+		expansion = 60
+
+		# % of the time we prefer to establish a tradingpost if both are good.
+		tradingpost = 40
+
+		# Bonus for areas to establish colonies adjacent to previous ones.
+		neighbour = 20
+
+		# Bonus/Penalty for establish colonies adjacent to other countries.
+		enemies = 40
+
+		# 100 = max trader rate, lesser means slower focus on sending a trader.
+		traders = 40
+
+		# 100 = Total monopolist, will refuse trade as much as possible.
+		monopoly = 50
+
+		# 100 = Total warmonger, 0 = absolute pacifist
+		war = 20
+
+
+

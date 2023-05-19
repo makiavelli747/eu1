@@ -1,0 +1,31 @@
+#
+# Europa Universalis, english AI
+#
+ 
+		# preferred areas for expansion
+
+		continent = { Oceania }
+		region = { "North America" Carribean India }
+		area = { Antilles America Maine Georgia Newfoundland Cuba Bengal Carnatic Botany }
+
+		# The amount of provinces we try to colonize at the same time
+		expansion = 50
+
+		# % of the time we prefer to establish a tradingpost if both are good.
+		tradingpost = 20
+
+		# Bonus for areas to establish colonies adjacent to previous ones.
+		neighbour = 30
+
+		# Bonus/Penalty for establish colonies adjacent to other countries.
+		enemies = 30
+
+		# 100 = max trader rate, lesser means slower focus on sending a trader.
+		traders = 50
+
+		# 100 = Total monopolist, will refuse trade as much as possible.
+		monopoly = 50
+
+		# 100 = Total warmonger, 0 = absolute pacifist
+		war = 30
+
