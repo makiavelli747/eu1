@@ -21,7 +21,7 @@
 		enemies = 0
 
 		# 100 = max trader rate, lesser means slower focus on sending a trader.
-		traders = 10
+		traders = 30
 
 		# 100 = Total monopolist, will refuse trade as much as possible.
 		monopoly = 10
