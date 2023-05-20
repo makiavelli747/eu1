@@ -20,7 +20,7 @@
 		neighbour = 0
 
 		# Bonus/Penalty for establish colonies adjacent to other countries.
-		enemies = 100
+		enemies = 0
 
 		# 100 = max trader rate, lesser means slower focus on sending a trader.
 		traders = 50

@@ -14,10 +14,10 @@
 		tradingpost = 40
 
 		# Bonus for areas to establish colonies adjacent to previous ones.
-		neighbour = 20
+		neighbour = 0
 
 		# Bonus/Penalty for establish colonies adjacent to other countries.
-		enemies = 40
+		enemies = 0
 
 		# 100 = max trader rate, lesser means slower focus on sending a trader.
 		traders = 40
