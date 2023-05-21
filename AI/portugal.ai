@@ -8,7 +8,7 @@
 		area = { Tanganyika Sofala Aden Oman Persia Malabar Ceylon Malaya Amboina Celebes Ternate Amazonia Bahia Belem Recife Rio }
 
 		# The amount of provinces we try to colonize at the same time
-		expansion = 60
+		expansion = 30
 
 		# % of the time we prefer to establish a tradingpost if both are good.
 		tradingpost = 40

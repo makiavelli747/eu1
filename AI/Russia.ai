@@ -7,7 +7,7 @@
 		region = { Siberia }
 		area = { Alaska California Oregon Manchuria Korea }
 		# The amount of provinces we try to colonize at the same time
-		expansion = 50
+		expansion = 25
 
 		# % of the time we prefer to establish a tradingpost if both are good.
 		tradingpost = 20
