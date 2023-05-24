@@ -17,7 +17,7 @@
 		tradingpost = 100
 
 		# Bonus for areas to establish colonies adjacent to previous ones.
-		neighbour = 0
+		neighbour = 100
 
 		# Bonus/Penalty for establish colonies adjacent to other countries.
 		enemies = 0
