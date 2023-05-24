@@ -4,14 +4,15 @@
  
 		# preferred areas for expansion
 
-		region = { india indonesia }
-		area = { Tanganyika Sofala Aden Oman Persia Malabar Ceylon Malaya Amboina Celebes Ternate Amazonia Bahia Belem Recife Rio }
+		region = { "West Africa" "South America" "East Africa" India Indochina Indonesia }
+		area = { Belem Recife Rio Malabar Gujarat Carnatic Ceylon Mozambicque Tanganyika Sofala Angola Congo Gabon Cameroon Ivory Gold 
+		Senegal Mauritania }
 
 		# The amount of provinces we try to colonize at the same time
-		expansion = 30
+		expansion = 100
 
 		# % of the time we prefer to establish a tradingpost if both are good.
-		tradingpost = 40
+		tradingpost = 50
 
 		# Bonus for areas to establish colonies adjacent to previous ones.
 		neighbour = 0
@@ -20,7 +21,7 @@
 		enemies = 0
 
 		# 100 = max trader rate, lesser means slower focus on sending a trader.
-		traders = 40
+		traders = 50
 
 		# 100 = Total monopolist, will refuse trade as much as possible.
 		monopoly = 50

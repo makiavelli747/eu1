@@ -4,15 +4,14 @@
  
 		# preferred areas for expansion
 
-		continent = { Oceania }
-		region = { "North America" Carribean India }
-		area = { Antilles America Maine Georgia Newfoundland Cuba Bengal Carnatic Botany }
+		region = { "North America" Carribean India Indochina Australia }
+		area = { Antilles Cuba America Maine Ohio Newfoundland Illinois "The Cape" Namibia Malabar Gujarat Carnatic Ceylon }
 
 		# The amount of provinces we try to colonize at the same time
-		expansion = 40
+		expansion = 100
 
 		# % of the time we prefer to establish a tradingpost if both are good.
-		tradingpost = 20
+		tradingpost = 0
 
 		# Bonus for areas to establish colonies adjacent to previous ones.
 		neighbour = 0

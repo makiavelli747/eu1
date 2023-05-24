@@ -5,14 +5,15 @@
  
 		# preferred areas for expansion
 
-		region = { "North America" Carribean "West Africa" India }
-		area = { Quebec Acadie Antilles Haiti "Grand Lacs" Carnatic "The Mascarenes" Senegal }
+		region = { Carribean "North America" India Indochina "West Africa" Pacific }
+		area = { Quebec Acadie Antilles Haiti Louisiane Georgia Kansas Illinois Labrador "Hudson Bay" "Grand Lacs"
+		Madagascar "The Mascarenes" Senegal Ivory Gold Mauritania Seychelles }
 
 		# The amount of provinces we try to colonize at the same time
-		expansion = 20
+		expansion = 100
 
 		# % of the time we prefer to establish a tradingpost if both are good.
-		tradingpost = 10
+		tradingpost = 0
 
 		# Bonus for areas to establish colonies adjacent to previous ones.
 		neighbour = 0
