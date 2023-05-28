@@ -27,4 +27,4 @@
 		monopoly = 10
 
 		# 100 = Total warmonger, 0 = absolute pacifist
-		war = 20
+		war = 40

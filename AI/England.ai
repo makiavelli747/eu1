@@ -5,19 +5,19 @@
 		# preferred areas for expansion
 
 		region = { "North America" Carribean India Indochina Australia }
-		area = { Antilles Cuba America Maine Ohio Newfoundland Illinois "The Cape" Namibia Malabar Gujarat Carnatic Ceylon }
+		area = { America Ohio Antilles Cuba Namibia "The Cape" Carnatic Siam Annam }
 
 		# The amount of provinces we try to colonize at the same time
-		expansion = 100
+		expansion = 40
 
 		# % of the time we prefer to establish a tradingpost if both are good.
-		tradingpost = 0
+		tradingpost = 30
 
 		# Bonus for areas to establish colonies adjacent to previous ones.
-		neighbour = 100
+		neighbour = 40
 
 		# Bonus/Penalty for establish colonies adjacent to other countries.
-		enemies = 100
+		enemies = 40
 
 		# 100 = max trader rate, lesser means slower focus on sending a trader.
 		traders = 50
@@ -26,5 +26,5 @@
 		monopoly = 50
 
 		# 100 = Total warmonger, 0 = absolute pacifist
-		war = 30
+		war = 50
 
