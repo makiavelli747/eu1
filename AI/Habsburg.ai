@@ -4,8 +4,8 @@
 		# preferred areas for expansion
 
 		continent = { Europe Asia Africa }
-		region = { "West Africa" }
-		area = { Canton Balkans itlay Danube }
+		region = { "West Africa" "Central Europe" }
+		area = { Canton Balkans italy Danube }
 
 
 		# The amount of provinces we try to colonize at the same time
