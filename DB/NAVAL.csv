@@ -2,43 +2,43 @@ level;Cost;WarshipFire;WarshipShock;GalleyFire;GalleyShock;Attrition;Morale;Wind
 0;1493;0;100;0;100;1;1.5;0;0;0;Carrack;Initial Technology - CARRACKS
 1;1497;0;100;0;100;0.9;1.5;0;0;0;Boussole;reduces attrition
 2;1500;0;100;0;100;0.9;1.5;0;0;0;Caravels;reduces attrition
-3;1507;30;100;0;100;0.8;1.5;0;0;0;Early Guns;carracks may fire
-4;1515;50;100;5;100;0.8;1.5;0;0;0;Metal cannon Balls;galleys may fire
-5;1522;100;100;5;100;0.8;2;0;0;1;Galleons;GALLEON Technology
-6;1530;100;100;5;100;0.7;2;0;0;1;Astrolabe;reduces attrition
-7;1537;100;100;5;100;0.7;2;0.5;0;1;Early Cartography;improves Wind gauge
-8;1545;100;100;5;100;0.7;2;0.5;0;1;Galeass;Special - Venezia
-9;1552;100;100;5;100;0.6;2;0.5;0;1;Compass;reduces attrition
-10;1560;100;100;5;100;0.6;2;1;0;1;Mizzen Mast;improves Wind gauge
-11;1567;100;100;5;100;0.6;2.5;1.5;1;2;Latin Sail;LATIN SAIL Technology
-12;1575;100;100;10;100;0.6;2.5;1.5;1;2;Forward Guns;increases galley fire
-13;1582;100;100;10;100;0.5;2.5;1.5;1;2;Early Optics;reduces attrition
-14;1590;100;100;10;100;0.5;2.5;2;1;2;Aft Mast;improves Wind gauge
-15;1597;100;100;10;100;0.5;2.5;2;1;2;Fireships;special
-16;1605;100;100;10;100;0.5;2.5;2.5;1;2;Improved Rigging;improves Wind gauge and reduces attrition
-17;1612;130;100;20;100;0.5;2.5;2.5;1;2;Refined Salpeter;improves fire
-18;1620;140;110;30;110;0.5;2.5;2.5;1;2;Culverine;improves fire
-19;1627;150;110;30;110;0.5;2.5;2.5;1;2;Long range Fire;improves fire
-20;1635;175;110;30;110;0.5;2.75;2.5;1;3;Lower deck Battery;improves warship fires
-21;1642;175;110;30;110;0.4;2.75;3;1;3;Cartography;improves Wind gauge and reduces attrition
-22;1650;175;120;30;120;0.4;2.75;3;1;3;Naval Pistols;improve shock + privateers
-23;1657;190;120;30;120;0.4;2.75;3;1;3;Naval Light Artillery;improves fire
-24;1665;190;120;30;120;0.4;2.75;3.5;1;3;Fore Sails;improves Wind Gauge
-25;1672;190;150;30;150;0.4;2.75;3.5;1;3;Boarding Tactics;improves shock
-26;1680;200;150;30;150;0.3;3;3.5;2;4;Vaisseaux;VAISSEAUX Technology
-27;1687;200;175;30;160;0.3;3;3.5;2;4;Explosive Balls;improves shock
-28;1695;220;175;50;160;0.3;3;3.5;2;4;Explosive Shells;improves fire
-29;1702;220;190;50;170;0.3;3;3.5;2;4;Naval Grenades;improves shock
-30;1710;250;190;50;170;0.3;3;3.5;2;4;24 Pounders;improves warship fires
-31;1717;230;170;30;170;0.3;3;3.5;2;4;Line Formations;reduce Wind Gauge and fires; limits boarding; but increase morale
-32;1725;230;180;30;170;0.3;3;3.5;2;4;Grapheshot;improves warship fires;;
-33;1732;240;190;30;170;0.3;3;3.5;2;4;Chain shots;improves warship fires + wind gauge round 2;;
-34;1740;240;190;30;170;0.3;3;3.5;2;4;Early Clocks;reduces attrition;;
-35;1747;240;200;30;170;0.3;3;4;2;4;Melee Tactics;improves shock;;
-36;1755;250;200;30;170;0.3;4;4;2;5;Triple Deckers;TRIPLE DECKER Technology;;
-37;1762;250;200;30;170;0.2;4;4;2;5;Food Supplies;reduces attrition;;
-38;1770;250;200;30;170;0.2;4;4.5;2;5;Copper Bottoms;improves Wind Gauge and speed;;
-39;1777;260;200;30;170;0.2;4;4.5;5;5;Double Shots;improves warship fire;;
-40;1785;260;200;30;170;0.1;4;4.5;2;5;Clocks;reduces attrition;;
-41;1792;260;220;30;170;0.1;4;4.5;2;5;Carronade;improves shock;;
-42;1800;260;230;30;170;0.1;4;5;2;5;Breakthrough Tactics;improves shock;;
+3;1510;30;100;0;100;0.8;1.5;0;0;0;Early Guns;carracks may fire
+4;1525;50;100;5;100;0.8;1.5;0;0;0;Metal cannon Balls;galleys may fire
+5;1535;100;100;5;100;0.8;2;0;0;1;Galleons;GALLEON Technology
+6;1550;100;100;5;100;0.7;2;0;0;1;Astrolabe;reduces attrition
+7;1560;100;100;5;100;0.7;2;0.5;0;1;Early Cartography;improves Wind gauge
+8;1575;100;100;5;100;0.7;2;0.5;0;1;Galeass;Special - Venezia
+9;1585;100;100;5;100;0.6;2;0.5;0;1;Compass;reduces attrition
+10;1600;100;100;5;100;0.6;2;1;0;1;Mizzen Mast;improves Wind gauge
+11;1610;100;100;5;100;0.6;2.5;1.5;1;2;Latin Sail;LATIN SAIL Technology
+12;1625;100;100;10;100;0.6;2.5;1.5;1;2;Forward Guns;increases galley fire
+13;1635;100;100;10;100;0.5;2.5;1.5;1;2;Early Optics;reduces attrition
+14;1650;100;100;10;100;0.5;2.5;2;1;2;Aft Mast;improves Wind gauge
+15;1660;100;100;10;100;0.5;2.5;2;1;2;Fireships;special
+16;1675;100;100;10;100;0.5;2.5;2.5;1;2;Improved Rigging;improves Wind gauge and reduces attrition
+17;1685;130;100;20;100;0.5;2.5;2.5;1;2;Refined Salpeter;improves fire
+18;1700;140;110;30;110;0.5;2.5;2.5;1;2;Culverine;improves fire
+19;1710;150;110;30;110;0.5;2.5;2.5;1;2;Long range Fire;improves fire
+20;1725;175;110;30;110;0.5;2.75;2.5;1;3;Lower deck Battery;improves warship fires
+21;1735;175;110;30;110;0.4;2.75;3;1;3;Cartography;improves Wind gauge and reduces attrition
+22;1750;175;120;30;120;0.4;2.75;3;1;3;Naval Pistols;improve shock + privateers
+23;1760;190;120;30;120;0.4;2.75;3;1;3;Naval Light Artillery;improves fire
+24;1775;190;120;30;120;0.4;2.75;3.5;1;3;Fore Sails;improves Wind Gauge
+25;1785;190;150;30;150;0.4;2.75;3.5;1;3;Boarding Tactics;improves shock
+26;1800;200;150;30;150;0.3;3;3.5;2;4;Vaisseaux;VAISSEAUX Technology
+27;1810;200;175;30;160;0.3;3;3.5;2;4;Explosive Balls;improves shock
+28;1825;220;175;50;160;0.3;3;3.5;2;4;Explosive Shells;improves fire
+29;1835;220;190;50;170;0.3;3;3.5;2;4;Naval Grenades;improves shock
+30;1850;250;190;50;170;0.3;3;3.5;2;4;24 Pounders;improves warship fires
+31;1860;230;170;30;170;0.3;3;3.5;2;4;Line Formations;reduce Wind Gauge and fires; limits boarding; but increase morale
+32;1875;230;180;30;170;0.3;3;3.5;2;4;Grapheshot;improves warship fires;;
+33;1885;240;190;30;170;0.3;3;3.5;2;4;Chain shots;improves warship fires + wind gauge round 2;;
+34;1900;240;190;30;170;0.3;3;3.5;2;4;Early Clocks;reduces attrition;;
+35;1910;240;200;30;170;0.3;3;4;2;4;Melee Tactics;improves shock;;
+36;1925;250;200;30;170;0.3;4;4;2;5;Triple Deckers;TRIPLE DECKER Technology;;
+37;1935;250;200;30;170;0.2;4;4;2;5;Food Supplies;reduces attrition;;
+38;1950;250;200;30;170;0.2;4;4.5;2;5;Copper Bottoms;improves Wind Gauge and speed;;
+39;1965;260;200;30;170;0.2;4;4.5;5;5;Double Shots;improves warship fire;;
+40;1975;260;200;30;170;0.1;4;4.5;2;5;Clocks;reduces attrition;;
+41;1985;260;220;30;170;0.1;4;4.5;2;5;Carronade;improves shock;;
+42;2000;260;230;30;170;0.1;4;5;2;5;Breakthrough Tactics;improves shock;;
