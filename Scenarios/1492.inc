@@ -878,8 +878,8 @@ country = {
 	diplomats = 1
     technology = {
 	stability = { level = 2 value = 42 }
-      infra = { level = 1 value = 10 }
-	trade = { level = 1 value = 70 }
+      infra = { level = 0 value = 10 }
+	trade = { level = 0 value = 70 }
       land = { level = 1 value = 150 } 
       naval = { level = 0 value = 0 } 
         } 
@@ -1341,8 +1341,8 @@ country = {
 	diplomats = 1
     technology = {
 	stability = { level = 2 value = 42 }
-      infra = { level = 2 value = 0 }
-	trade = { level = 1 value = 100 }
+      infra = { level = 0 value = 0 }
+	trade = { level = 0 value = 100 }
         land = { level = 3 value = 0 } 
         naval = { level = 2 value = 100 } 
         } 
@@ -1350,7 +1350,7 @@ country = {
 
 country = { 
     tag = VEN 
-	ai = "trader.ai"
+	ai = "venice.ai"
     colonialattempts = 0 
     colonialnation = no 
     major = no
@@ -1469,8 +1469,8 @@ country = {
 
     technology = {
 	stability = { level = 2 value = 42 }
-      infra = { level = 1 value = 10 }
-	trade = { level = 1 value = 70 }
+      infra = { level = 0 value = 10 }
+	trade = { level = 0 value = 70 }
       land = { level = 1 value = 50 } 
       naval = { level = 0 value = 0 } 
         } 
@@ -1851,8 +1851,8 @@ country = {
 	diplomats = 1
     technology = {
 	stability = { level = 2 value = 42 }
-      infra = { level = 1 value = 50 }
-	trade = { level = 1 value = 50 }
+      infra = { level = 0 value = 50 }
+	trade = { level = 0 value = 50 }
 	land = { level = 2 value = 200 } 
       naval = { level = 1 value = 0 } 
         } 
