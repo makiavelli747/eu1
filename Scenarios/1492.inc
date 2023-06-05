@@ -341,7 +341,7 @@ country = {
 	diplomats = 1
     technology = {
 	stability = { level = 1 value = 50 }
-	infra = { level = 1 value = 100 }
+	infra = { level = 2 value = 100 }
 	trade = { level = 1 value = 50 }
 	land = { level = 1 value = 0 } 
 	naval = { level = 1 value = 150 } 
