@@ -23,7 +23,7 @@
 		traders = 80
 
 		# 100 = Total monopolist, will refuse trade as much as possible.
-		monopoly = 10
+		monopoly = 20
 
 		# 100 = Total warmonger, 0 = absolute pacifist
 		war = 20
