@@ -341,7 +341,7 @@ country = {
 	diplomats = 1
     technology = {
 	stability = { level = 1 value = 50 }
-	infra = { level = 2 value = 100 }
+	infra = { level = 3 value = 100 }
 	trade = { level = 1 value = 50 }
 	land = { level = 1 value = 0 } 
 	naval = { level = 1 value = 150 } 
@@ -612,8 +612,8 @@ country = {
 	diplomats = 1
     technology = {
 	stability = { level = 2 value = 50 }
-      infra = { level = 0 value = 50 }
-	trade = { level = 0 value = 50 }  
+      infra = { level = 2 value = 50 }
+	trade = { level = 2 value = 50 }  
 	land = { level = 1 value = 10 } 
       naval = { level = 1 value = 0 } 
         } 
@@ -720,10 +720,10 @@ country = {
 	diplomats = 1
     technology = {
 	stability = { level = 3 value = 0 }
-      infra = { level = 0 value = 70 }
-	trade = { level = 2 value = 0 }  
+      infra = { level = 1 value = 70 }
+	trade = { level = 3 value = 0 }  
 	land = { level = 1 value = 50 } 
-      naval = { level = 2 value = 500 } 
+      naval = { level = 1 value = 500 } 
         } 
     } 
 
@@ -773,8 +773,8 @@ country = {
 	diplomats = 1
     technology = {
 	stability = { level = 3 value = 50 }
-      infra = { level = 0 value = 50 }
-	trade = { level = 0 value = 50 }
+      infra = { level = 3 value = 50 }
+	trade = { level = 1 value = 50 }
 	land = { level = 1 value = 100 } 
       naval = { level = 1 value = 0 } 
         } 
@@ -880,7 +880,7 @@ country = {
 	stability = { level = 2 value = 42 }
       infra = { level = 0 value = 10 }
 	trade = { level = 0 value = 70 }
-      land = { level = 1 value = 150 } 
+      land = { level = 2 value = 150 } 
       naval = { level = 0 value = 0 } 
         } 
     } 
@@ -1426,7 +1426,7 @@ country = {
       infra = { level = 1 value = 50 }
 	trade = { level = 3 value = 0 }
       land = { level = 1 value = 150 } 
-      naval = { level = 2 value = 200 } 
+      naval = { level = 1 value = 200 } 
         } 
     } 
 
@@ -1679,8 +1679,8 @@ country = {
 
     technology = {
 	stability = { level = 2 value = 42 }
-      infra = { level = 1 value = 10 }
-	trade = { level = 1 value = 70 }
+      infra = { level = 0 value = 10 }
+	trade = { level = 0 value = 70 }
       land = { level = 1 value = 50 } 
       naval = { level = 1 value = 0 } 
         } 
@@ -1853,7 +1853,7 @@ country = {
 	stability = { level = 2 value = 42 }
       infra = { level = 0 value = 50 }
 	trade = { level = 0 value = 50 }
-	land = { level = 2 value = 200 } 
+	land = { level = 1 value = 200 } 
       naval = { level = 1 value = 0 } 
         } 
     } 
@@ -4224,8 +4224,8 @@ country = {
         } 
     technology = {
 	stability = { level = 2 value = 42 }
-        infra = { level = 2 value = 20 }
-	  trade = { level = 2 value = 20 }
+        infra = { level = 0 value = 20 }
+	  trade = { level = 0 value = 20 }
         land = { level = 1 value = 0 } 
         naval = { level = 2 value = 0 } 
         } 
