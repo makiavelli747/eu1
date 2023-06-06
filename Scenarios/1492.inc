@@ -729,13 +729,15 @@ country = {
 
 country = { 
     tag = BRA 
+	ai = "Brandenburg.ai"
+
     colonialattempts = 0 
     colonialnation = no 
     major = no 
     colonists = 0.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 150.000000 
+    treasury = 300.000000 
     inflation = 0.000000 
     merchants = 0.000000 
     religion = { type = catholic }
