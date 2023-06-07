@@ -12,7 +12,7 @@
 		expansion = 40
 
 		# % of the time we prefer to establish a tradingpost if both are good.
-		tradingpost = 30
+		tradingpost = 0
 
 		# Bonus for areas to establish colonies adjacent to previous ones.
 		neighbour = 30

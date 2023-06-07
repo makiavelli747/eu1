@@ -11,7 +11,7 @@
 		expansion = 20
 
 		# % of the time we prefer to establish a tradingpost if both are good.
-		tradingpost = 20
+		tradingpost = 0
 
 		# Bonus for areas to establish colonies adjacent to previous ones.
 		neighbour = 20
