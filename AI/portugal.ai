@@ -5,20 +5,20 @@
 		# preferred areas for expansion
 
 		region = { "West Africa" "South America" "East Africa" India Indochina Indonesia }
-		area = { Belem Recife Rio Malabar Gujarat Carnatic Ceylon Mozambicque Tanganyika Sofala Angola Congo Gabon Cameroon Ivory Gold 
+		area = { Maghreb Belem Recife Rio Malabar Gujarat Carnatic Ceylon Mozambicque Tanganyika Sofala Angola Congo Gabon Cameroon Ivory Gold 
 		Senegal Mauritania }
 
 		# The amount of provinces we try to colonize at the same time
-		expansion = 40
+		expansion = 50
 
 		# % of the time we prefer to establish a tradingpost if both are good.
 		tradingpost = 0
 
 		# Bonus for areas to establish colonies adjacent to previous ones.
-		neighbour = 30
+		neighbour = 0
 
 		# Bonus/Penalty for establish colonies adjacent to other countries.
-		enemies = 30
+		enemies = 0
 
 		# 100 = max trader rate, lesser means slower focus on sending a trader.
 		traders = 90
