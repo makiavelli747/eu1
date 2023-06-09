@@ -882,7 +882,7 @@ country = {
 	stability = { level = 2 value = 42 }
       infra = { level = 0 value = 10 }
 	trade = { level = 0 value = 70 }
-      land = { level = 2 value = 150 } 
+      land = { level = 3 value = 150 } 
       naval = { level = 0 value = 0 } 
         } 
     } 
@@ -1060,7 +1060,7 @@ country = {
 	stability = { level = 2 value = 42 }
       infra = { level = 1 value = 104 }
 	trade = { level = 1 value = 55 }
-      land = { level = 2 value = 62 } 
+      land = { level = 5 value = 62 } 
       naval = { level = 2 value = 687 } 
         } 
     } 
@@ -1345,7 +1345,7 @@ country = {
 	stability = { level = 2 value = 42 }
       infra = { level = 0 value = 0 }
 	trade = { level = 0 value = 100 }
-        land = { level = 3 value = 0 } 
+        land = { level = 4 value = 0 } 
         naval = { level = 2 value = 100 } 
         } 
     } 
