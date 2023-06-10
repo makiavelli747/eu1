@@ -539,7 +539,7 @@ country = {
 	stability = { level = 1 value = 50 }
       infra = { level = 0 value = 50 }
 	trade = { level = 0 value = 50 }  
-	land = { level = 2 value = 50 } 
+	land = { level = 3 value = 50 } 
 	naval = { level = 1 value = 30 } 
         } 
     } 
