@@ -11,7 +11,7 @@
 		expansion = 30
 
 		# % of the time we prefer to establish a tradingpost if both are good.
-		tradingpost = 40
+		tradingpost = 70
 
 		# Bonus for areas to establish colonies adjacent to previous ones.
 		neighbour = 0
@@ -26,5 +26,5 @@
 		monopoly = 50
 
 		# 100 = Total warmonger, 0 = absolute pacifist
-		war = 30
+		war = 40
 
