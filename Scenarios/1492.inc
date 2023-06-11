@@ -792,7 +792,7 @@ country = {
     colonists = 5.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 400.000000 
+    treasury = 500.000000 
     inflation = 0.000000 
     merchants = 5.000000 
     religion = { type = orthodox }
