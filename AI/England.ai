@@ -8,10 +8,10 @@
 		area = { America Ohio Antilles Cuba Namibia "The Cape" Carnatic Siam Annam }
 
 		# The amount of provinces we try to colonize at the same time
-		expansion = 20
+		expansion = 30
 
 		# % of the time we prefer to establish a tradingpost if both are good.
-		tradingpost = 0
+		tradingpost = 30
 
 		# Bonus for areas to establish colonies adjacent to previous ones.
 		neighbour = 0
@@ -23,8 +23,8 @@
 		traders = 100
 
 		# 100 = Total monopolist, will refuse trade as much as possible.
-		monopoly = 90
+		monopoly = 50
 
 		# 100 = Total warmonger, 0 = absolute pacifist
-		war = 50
+		war = 30
 

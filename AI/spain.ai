@@ -11,10 +11,10 @@
 		Paraguay Patagonia sonora italy }
 
  		# % of the time we prefer to establish a tradingpost if both are good.
-		tradingpost = 0
+		tradingpost = 20
 
 		# The amount of provinces we try to colonize at the same time
-		expansion = 30
+		expansion = 40
 
 		# Bonus for areas to establish colonies adjacent to previous ones.
 		neighbour = 0
@@ -23,12 +23,12 @@
 		enemies = 0
 
 		# 100 = max trader rate, lesser means slower focus on sending a trader.
-		traders = 70
+		traders = 80
 
 		# 100 = Total monopolist, will refuse trade as much as possible.
-		monopoly = 80
+		monopoly = 30
 
 		# 100 = Total warmonger, 0 = absolute pacifist
-		war = 60
+		war = 30
 
 

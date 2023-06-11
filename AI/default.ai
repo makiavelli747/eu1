@@ -29,10 +29,10 @@
 		enemies = 0
 
 		# 100 = max trader rate, lesser means slower focus on sending a trader.
-		traders = 10
+		traders = 20
 
 		# 100 = Total monopolist, will refuse trade as much as possible.
-		monopoly = 30
+		monopoly = 10
 
 		# 100 = Total warmonger, 0 = absolute pacifist
-		war = 40
+		war = 10
