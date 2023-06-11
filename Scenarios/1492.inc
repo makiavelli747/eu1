@@ -223,7 +223,7 @@ country = {
     colonists = 5.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 1000.000000 
+    treasury = 2000.000000 
     inflation = 0.000000 
     merchants = 5.166667 
     religion = { type = catholic }
@@ -554,7 +554,7 @@ country = {
     colonists = 0.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 400.000000 
+    treasury = 1000.000000 
     inflation = 0.000000 
     merchants = 0.000000 
     religion = { type = catholic }
@@ -630,7 +630,7 @@ country = {
     colonists = 5.0000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 1800.000000 
+    treasury = 4000.000000 
     inflation = 0.000000 
     merchants = 5.083333 
     religion = { type = catholic }
@@ -737,7 +737,7 @@ country = {
     colonists = 0.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 300.000000 
+    treasury = 500.000000 
     inflation = 0.000000 
     merchants = 0.000000 
     religion = { type = catholic }
@@ -1675,7 +1675,7 @@ country = {
         location = 744 
         infantry = 10000 
         cavalry = 12000 
-        artillery = 40 
+        artillery = 0 
         } 
 
 
@@ -3779,7 +3779,7 @@ country = {
     colonists = 0.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 300.000000 
+    treasury = 500.000000 
     inflation = 0.000000 
     merchants = 0.083333 
     religion = { type = catholic }
