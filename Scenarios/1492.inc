@@ -1913,8 +1913,8 @@ country = {
         } 
     technology = {
 	stability = { level = 2 value = 42 }
-      infra = { level = 1 value = 50 }
-	trade = { level = 1 value = 50 }
+      infra = { level = 0 value = 50 }
+	trade = { level = 0 value = 50 }
       land = { level = 1 value = 0 } 
       naval = { level = 1 value = 0 } 
         } 
@@ -1980,8 +1980,8 @@ country = {
         } 
     technology = {
 	stability = { level = 2 value = 42 }
-      infra = { level = 1 value = 50 }
-	trade = { level = 1 value = 50 }
+      infra = { level = 0 value = 50 }
+	trade = { level = 0 value = 50 }
       land = { level = 1 value = 0 } 
       naval = { level = 1 value = 0 } 
         } 
@@ -2036,8 +2036,8 @@ country = {
         } 
     technology = {
 	stability = { level = 2 value = 42 }
-      infra = { level = 1 value = 50 }
-	trade = { level = 1 value = 50 }
+      infra = { level = 0 value = 50 }
+	trade = { level = 0 value = 50 }
       land = { level = 1 value = 0 } 
       naval = { level = 1 value = 0 } 
         } 
@@ -2108,8 +2108,8 @@ country = {
         } 
     technology = {
 	stability = { level = 2 value = 42 }
-        infra = { level = 1 value = 50 }
-	  trade = { level = 1 value = 50 }
+        infra = { level = 0 value = 50 }
+	  trade = { level = 0 value = 50 }
         land = { level = 1 value = 0 } 
         naval = { level = 1 value = 0 } 
         } 
@@ -2439,8 +2439,8 @@ country = {
         } 
     technology = {
 	stability = { level = 2 value = 42 }
-        infra = { level = 1 value = 50 }
-	  trade = { level = 1 value = 50 }
+        infra = { level = 0 value = 50 }
+	  trade = { level = 0 value = 50 }
         land = { level = 1 value = 0 } 
         naval = { level = 1 value = 0 } 
         } 
@@ -2490,8 +2490,8 @@ country = {
         } 
     technology = {
 	stability = { level = 2 value = 42 }
-        infra = { level = 1 value = 50 }
-	  trade = { level = 1 value = 50 }
+        infra = { level = 0 value = 50 }
+	  trade = { level = 0 value = 50 }
         land = { level = 1 value = 0 } 
         naval = { level = 1 value = 0 } 
         } 
