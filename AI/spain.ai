@@ -11,10 +11,10 @@
 		Paraguay Patagonia sonora italy }
 
  		# % of the time we prefer to establish a tradingpost if both are good.
-		tradingpost = 20
+		tradingpost = 10
 
 		# The amount of provinces we try to colonize at the same time
-		expansion = 40
+		expansion = 10
 
 		# Bonus for areas to establish colonies adjacent to previous ones.
 		neighbour = 0

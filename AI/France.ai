@@ -10,10 +10,10 @@
 		Madagascar "The Mascarenes" Senegal Ivory Gold Mauritania Seychelles italy }
 
 		# The amount of provinces we try to colonize at the same time
-		expansion = 20
+		expansion = 30
 
 		# % of the time we prefer to establish a tradingpost if both are good.
-		tradingpost = 30
+		tradingpost = 10
 
 		# Bonus for areas to establish colonies adjacent to previous ones.
 		neighbour = 0

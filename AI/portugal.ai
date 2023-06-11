@@ -9,10 +9,10 @@
 		Senegal Mauritania }
 
 		# The amount of provinces we try to colonize at the same time
-		expansion = 40
+		expansion = 10
 
 		# % of the time we prefer to establish a tradingpost if both are good.
-		tradingpost = 40
+		tradingpost = 50
 
 		# Bonus for areas to establish colonies adjacent to previous ones.
 		neighbour = 0
