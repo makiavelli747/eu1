@@ -14,7 +14,7 @@
 		tradingpost = 10
 
 		# The amount of provinces we try to colonize at the same time
-		expansion = 10
+		expansion = 30
 
 		# Bonus for areas to establish colonies adjacent to previous ones.
 		neighbour = 0

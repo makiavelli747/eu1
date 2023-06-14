@@ -8,7 +8,7 @@
 		area = { Antilles "The Cape" Orenoque Malabar Gujarat Carnatic Ceylon }
 
 		# The amount of provinces we try to colonize at the same time
-		expansion = 10
+		expansion = 20
 
 		# % of the time we prefer to establish a tradingpost if both are good.
 		tradingpost = 10
