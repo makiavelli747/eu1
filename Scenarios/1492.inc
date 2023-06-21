@@ -341,7 +341,7 @@ country = {
 	diplomats = 1
     technology = {
 	stability = { level = 1 value = 50 }
-	infra = { level = 4 value = 100 }
+	infra = { level = 5 value = 100 }
 	trade = { level = 3 value = 50 }
 	land = { level = 2 value = 0 } 
 	naval = { level = 4 value = 150 } 
@@ -792,7 +792,7 @@ country = {
     colonists = 5.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 1000.000000 
+    treasury = 2000.000000 
     inflation = 0.000000 
     merchants = 5.000000 
     religion = { type = orthodox }
@@ -1199,7 +1199,7 @@ country = {
     colonists = 0.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 1000.000000 
+    treasury = 2000.000000 
     inflation = 0.000000 
     merchants = 0.083333 
     religion = { type = sunni }
