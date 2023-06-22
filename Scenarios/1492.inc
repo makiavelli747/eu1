@@ -223,7 +223,7 @@ country = {
     colonists = 5.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 2000.000000 
+    treasury = 3000.000000 
     inflation = 0.000000 
     merchants = 5.166667 
     religion = { type = catholic }
@@ -359,7 +359,7 @@ country = {
     colonists = 5.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 600.000000 
+    treasury = 1000.000000 
     inflation = 0.000000 
     merchants = 5.083333 
     religion = { type = catholic }
@@ -554,7 +554,7 @@ country = {
     colonists = 0.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 1000.000000 
+    treasury = 2000.000000 
     inflation = 0.000000 
     merchants = 0.000000 
     religion = { type = catholic }
@@ -737,7 +737,7 @@ country = {
     colonists = 0.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 500.000000 
+    treasury = 1000.000000 
     inflation = 0.000000 
     merchants = 0.000000 
     religion = { type = catholic }
@@ -792,7 +792,7 @@ country = {
     colonists = 5.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 2000.000000 
+    treasury = 4000.000000 
     inflation = 0.000000 
     merchants = 5.000000 
     religion = { type = orthodox }
@@ -897,7 +897,7 @@ country = {
     colonists = 5.250000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 800.000000 
+    treasury = 2000.000000 
     inflation = 0.000000 
     merchants = 5.083333 
     religion = { type = catholic }
@@ -1199,7 +1199,7 @@ country = {
     colonists = 0.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 2000.000000 
+    treasury = 3000.000000 
     inflation = 0.000000 
     merchants = 0.083333 
     religion = { type = sunni }
@@ -1359,7 +1359,7 @@ country = {
     colonists = 1.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 500.000000 
+    treasury = 1000.000000 
     inflation = 0.000000 
     merchants = 6.083333 
     religion = { type = catholic }
@@ -1702,7 +1702,7 @@ country = {
     colonists = 0.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 500.000000 
+    treasury = 1000.000000 
     inflation = 0.000000 
     merchants = 1.083333 
     religion = { type = catholic }
@@ -3779,7 +3779,7 @@ country = {
     colonists = 0.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 500.000000 
+    treasury = 1000.000000 
     inflation = 0.000000 
     merchants = 0.083333 
     religion = { type = catholic }
