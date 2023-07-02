@@ -223,7 +223,7 @@ country = {
     colonists = 5.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 4000.000000 
+    treasury = 5000.000000 
     inflation = 0.000000 
     merchants = 5.166667 
     religion = { type = catholic }
@@ -344,7 +344,7 @@ country = {
 	infra = { level = 5 value = 100 }
 	trade = { level = 4 value = 50 }
 	land = { level = 2 value = 0 } 
-	naval = { level = 4 value = 150 } 
+	naval = { level = 5 value = 150 } 
         } 
     } 
 
@@ -359,7 +359,7 @@ country = {
     colonists = 5.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 2000.000000 
+    treasury = 1000.000000 
     inflation = 0.000000 
     merchants = 5.083333 
     religion = { type = catholic }
@@ -537,9 +537,9 @@ country = {
 	diplomats = 1
     technology = {
 	stability = { level = 1 value = 50 }
-      infra = { level = 0 value = 50 }
-	trade = { level = 0 value = 50 }  
-	land = { level = 2 value = 50 } 
+      infra = { level = 1 value = 50 }
+	trade = { level = 1 value = 50 }  
+	land = { level = 1 value = 50 } 
 	naval = { level = 2 value = 30 } 
         } 
     } 
@@ -554,7 +554,7 @@ country = {
     colonists = 0.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 4000.000000 
+    treasury = 1000.000000 
     inflation = 0.000000 
     merchants = 0.000000 
     religion = { type = catholic }
@@ -630,7 +630,7 @@ country = {
     colonists = 5.0000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 5000.000000 
+    treasury = 4000.000000 
     inflation = 0.000000 
     merchants = 5.083333 
     religion = { type = catholic }
@@ -720,7 +720,7 @@ country = {
 	diplomats = 1
     technology = {
 	stability = { level = 3 value = 0 }
-      infra = { level = 1 value = 70 }
+      infra = { level = 3 value = 70 }
 	trade = { level = 5 value = 0 }  
 	land = { level = 1 value = 50 } 
       naval = { level = 3 value = 500 } 
@@ -737,7 +737,7 @@ country = {
     colonists = 0.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 1000.000000 
+    treasury = 4000.000000 
     inflation = 0.000000 
     merchants = 0.000000 
     religion = { type = catholic }
@@ -776,8 +776,8 @@ country = {
     technology = {
 	stability = { level = 3 value = 50 }
       infra = { level = 4 value = 50 }
-	trade = { level = 1 value = 50 }
-	land = { level = 2 value = 100 } 
+	trade = { level = 2 value = 50 }
+	land = { level = 4 value = 100 } 
       naval = { level = 1 value = 0 } 
         } 
     } 
@@ -792,7 +792,7 @@ country = {
     colonists = 5.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 5000.000000 
+    treasury = 2000.000000 
     inflation = 0.000000 
     merchants = 5.000000 
     religion = { type = orthodox }
@@ -880,10 +880,10 @@ country = {
 	diplomats = 1
     technology = {
 	stability = { level = 2 value = 42 }
-      infra = { level = 0 value = 10 }
-	trade = { level = 0 value = 70 }
+      infra = { level = 2 value = 10 }
+	trade = { level = 2 value = 70 }
       land = { level = 3 value = 150 } 
-      naval = { level = 0 value = 0 } 
+      naval = { level = 1 value = 0 } 
         } 
     } 
 
@@ -897,7 +897,7 @@ country = {
     colonists = 5.250000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 3000.000000 
+    treasury = 2000.000000 
     inflation = 0.000000 
     merchants = 5.083333 
     religion = { type = catholic }
@@ -1058,10 +1058,10 @@ country = {
 	diplomats = 1
     technology = {
 	stability = { level = 2 value = 42 }
-      infra = { level = 0 value = 104 }
-	trade = { level = 0 value = 55 }
+      infra = { level = 2 value = 104 }
+	trade = { level = 3 value = 55 }
       land = { level = 5 value = 62 } 
-      naval = { level = 3 value = 687 } 
+      naval = { level = 4 value = 687 } 
         } 
     } 
 
@@ -1343,8 +1343,8 @@ country = {
 	diplomats = 1
     technology = {
 	stability = { level = 2 value = 42 }
-      infra = { level = 0 value = 0 }
-	trade = { level = 0 value = 100 }
+      infra = { level = 1 value = 0 }
+	trade = { level = 1 value = 100 }
         land = { level = 4 value = 0 } 
         naval = { level = 2 value = 100 } 
         } 
@@ -1359,7 +1359,7 @@ country = {
     colonists = 1.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 1000.000000 
+    treasury = 2000.000000 
     inflation = 0.000000 
     merchants = 6.083333 
     religion = { type = catholic }
@@ -1425,10 +1425,10 @@ country = {
 	diplomats = 1
     technology = {
 	stability = { level = 2 value = 42 }
-      infra = { level = 1 value = 50 }
-	trade = { level = 3 value = 0 }
+      infra = { level = 2 value = 50 }
+	trade = { level = 4 value = 0 }
       land = { level = 1 value = 150 } 
-      naval = { level = 1 value = 200 } 
+      naval = { level = 3 value = 200 } 
         } 
     } 
 
@@ -1536,7 +1536,7 @@ country = {
     colonists = 0.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 200.000000 
+    treasury = 99.000000 
     inflation = 0.000000 
     merchants = 0.000000 
     religion = { type = orthodox }
@@ -1574,10 +1574,10 @@ country = {
 
     technology = {
 	stability = { level = 2 value = 42 }
-      infra = { level = 1 value = 10 }
-	trade = { level = 1 value = 70 }
+      infra = { level = 0 value = 10 }
+	trade = { level = 0 value = 70 }
       land = { level = 1 value = 50 } 
-      naval = { level = 0 value = 0 } 
+      naval = { level = 1 value = 0 } 
         } 
     } 
 
@@ -1702,7 +1702,7 @@ country = {
     colonists = 0.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 2000.000000 
+    treasury = 500.000000 
     inflation = 0.000000 
     merchants = 1.083333 
     religion = { type = catholic }
@@ -2270,7 +2270,7 @@ country = {
     colonists = 0.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 99.000000 
+    treasury = 500.000000 
     inflation = 0.000000 
     merchants = 0.083333 
     religion = { type = catholic }
@@ -2657,7 +2657,7 @@ country = {
     technology = {
 	stability = { level = 2 value = 42 }
         infra = { level = 2 value = 50 }
-	  trade = { level = 2 value = 0 }
+	  trade = { level = 3 value = 0 }
         land = { level = 1 value = 0 } 
         naval = { level = 2 value = 0 } 
         } 
@@ -2728,7 +2728,7 @@ country = {
     colonists = 0.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 398.000000 
+    treasury = 2000.000000 
     inflation = 0.000000 
     merchants = 5.083333 
     religion = { type = catholic }
@@ -2782,9 +2782,9 @@ country = {
     technology = {
 	stability = { level = 2 value = 42 }
         infra = { level = 2 value = 50 }
-	  trade = { level = 4 value = 0 }
+	  trade = { level = 3 value = 0 }
         land = { level = 2 value = 0 } 
-        naval = { level = 3 value = 0 } 
+        naval = { level = 4 value = 0 } 
         } 
     } 
 
@@ -2895,7 +2895,7 @@ country = {
     colonists = 0.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 98.000000 
+    treasury = 1000.000000 
     inflation = 0.000000 
     merchants = 0.083333 
     religion = { type = catholic }
@@ -2971,10 +2971,10 @@ country = {
         } 
     technology = {
 	stability = { level = 2 value = 42 }
-        infra = { level = 1 value = 50 }
-	  trade = { level = 1 value = 50 }
+        infra = { level = 0 value = 50 }
+	  trade = { level = 0 value = 50 }
         land = { level = 2 value = 0 } 
-        naval = { level = 0 value = 0 } 
+        naval = { level = 1 value = 0 } 
         } 
     } 
 
@@ -3779,7 +3779,7 @@ country = {
     colonists = 0.000000 
     cancelledloans = 0 
     extendedloans = 0 
-    treasury = 1000.000000 
+    treasury = 3000.000000 
     inflation = 0.000000 
     merchants = 0.083333 
     religion = { type = catholic }
@@ -3824,10 +3824,10 @@ country = {
         } 
     technology = {
 	stability = { level = 2 value = 42 }
-        infra = { level = 2 value = 50 }
+        infra = { level = 3 value = 50 }
 	  trade = { level = 2 value = 50 }
-        land = { level = 2 value = 100 } 
-        naval = { level = 2 value = 0 } 
+        land = { level = 3 value = 100 } 
+        naval = { level = 1 value = 0 } 
         } 
     } 
 
