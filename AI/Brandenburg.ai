@@ -8,10 +8,10 @@
 		area = { Germany }
 
 		# The amount of provinces we try to colonize at the same time
-		expansion = 0
+		expansion = 10
 
 		# % of the time we prefer to establish a tradingpost if both are good.
-		tradingpost = 50
+		tradingpost = 10
 
 		# Bonus for areas to establish colonies adjacent to previous ones.
 		neighbour = 0
